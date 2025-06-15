@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android ROM flashing and developing
 - 📫 Reach me on mata.steam64@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Valve games. 
+- ⚡ Fun fact: I like eating shit
 
 <!---
 MataS2723/MataS2723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
