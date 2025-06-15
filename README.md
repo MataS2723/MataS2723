@@ -1,10 +1,9 @@
-- 👋 Hi, I’m MataS
-- 👀 I’m interested in Gaming, Unreal Engine And Blender
-- 🌱 I’m currently learning Blender, Unreal Engine
-- 💞️ I’m looking to collaborate on Unreal Engine
-- 📫 How to reach me mata_lol on Discord and mata.steam64@gmail.com
-- 😄 Pronouns: He/Him (Natural)
-- ⚡ Fun fact: I like Valve games and Running With Scissors (Rws) too!
+- 👋 Hi, I’m Mateja
+- 👀 I’m interested in C++, Arch Linux (i use arch btw) and idek man atp
+- 🌱 I’m currently learning Android ROM flashing and developing
+- 📫 Reach me on mata.steam64@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Valve games. 
 
 <!---
 MataS2723/MataS2723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
